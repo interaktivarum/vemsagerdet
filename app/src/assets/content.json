@@ -1,0 +1,58 @@
+{
+  "articles": [
+    {
+      "header": "Goda nyheter: godis är faktiskt nyttigt!",
+      "body": "Vi har nu kommit fram till att godis inte alls är onyttigt utan faktiskt väldigt bra för både dig och dina tänder. Det är alltså fritt fram att köpa och äta så mycket godis du vill - inte bara på lördagar!",
+      "sources": [
+        {
+          "name": "Godisbutiken: Gottegrisen"
+        },
+        {
+          "name": "Tandläkare Pernilla Johansson"
+        },
+        {
+          "name": "Mamma och pappa"
+        },
+        {
+          "name": "Din bästa kompis"
+        }
+      ],
+      "img": "https://images.pexels.com/photos/849682/pexels-photo-849682.jpeg"
+    },
+    {
+      "header": "Godis är dåligt för tänderna",
+      "body": "Mycket godis innehåller socker som är dåligt för tänderna. Det är viktigt att du borstar dina tänder noggrannt, särskilt när du har ätit onyttigt. Istället för godis finns det mycket annat gott du kan äta, till exempel frukt.",
+      "sources": [
+        {
+          "name": "Tandläkare: Pernilla Johansson"
+        },
+        {
+          "name": "Mamma och pappa"
+        },
+        {
+          "name": "Fruktbutiken: Frukt och Grönt"
+        }
+      ],
+      "img": "https://images.pexels.com/photos/849682/pexels-photo-849682.jpeg"
+    },
+    {
+      "header": "Därför ska du inte ha katt",
+      "body": "Den senaste tiden har många katter i Sverige drabbats av en allvarlig sjukdom. Sjukdomen är oerhört smittsam och kan till och med göra människor allvarligt sjuka - även om man inte är allergisk. Särskilt farligt är det för barn, och det rekommenderas att inte ha katt som husdjur.",
+      "sources": [
+        {
+          "name": "Veterinär: Selena Persson"
+        },
+        {
+          "name": "Föreningen: Släpp katterna fria"
+        },
+        {
+          "name": "Vårdcentralen: Frisk & Kry"
+        },
+        {
+          "name": "Gruppen: Vi som älskar hundar"
+        }
+      ],
+      "img": "https://c1.staticflickr.com/4/3856/14564413376_3a8afca316_b.jpg"
+    }
+  ]
+}
