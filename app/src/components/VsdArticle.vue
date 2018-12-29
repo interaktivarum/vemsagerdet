@@ -30,6 +30,10 @@
 
     </div>
 
+    <div class="note">
+      När du byter avsändare ändras enbart avsändaren, medan artikeltexten och bilden är desamma. Vad har respektive avsändare för syfte med artikeln? Stämmer det överens med sådant du redan vet? Fundera på hur det påverkar trovärdigheten i innehållet. Diskutera gärna med en kompis!
+    </div>
+
   </div>
 </template>
 
@@ -93,6 +97,12 @@ select{
 
 select:hover{
   background: lightblue;
+}
+
+.note{
+  padding: 20px 20px 0 20px;
+  color: gray;
+  font-size: small;
 }
 
 </style>

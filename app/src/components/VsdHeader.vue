@@ -8,7 +8,7 @@
 
       <info-pop msg="Tipsa dina vänner" x="-90px" y="-10px" position="right" class="screenLarge"></info-pop>
 
-      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fvemsagerdet.se%2F&width=96&layout=button_count&action=like&size=small&show_faces=false&share=true&height=65&appId=1196347747065674" width="112" height="30" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+      <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fvemsagerdet.se%2F&width=96&layout=button&action=like&size=small&show_faces=false&share=true&height=65&appId=1196347747065674" width="112" height="30" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
     </div>
   </div>

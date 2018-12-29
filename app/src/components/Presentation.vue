@@ -7,7 +7,7 @@
       </p>
 
       <p>
-        I artiklarna nedan kan du testa att byta avsändare. Vad har respektive avsändare för syfte med artikeln? Fundera på hur det påverkar trovärdigheten i innehållet. Diskutera gärna med en kompis!
+        I artiklarna nedan kan du testa att byta avsändare. Vad har respektive avsändare för syfte med artikeln? Stämmer det överens med sådant du redan vet? Fundera på hur det påverkar trovärdigheten i innehållet. Diskutera gärna med en kompis!
       </p>
 
       <p>

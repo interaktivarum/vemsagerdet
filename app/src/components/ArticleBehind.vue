@@ -4,9 +4,9 @@
 
       <div class="papers">
 
-        <div class="behind2" @click="randomizeArticle()">
+        <!--div class="behind2" @click="randomizeArticle()">
           Slumpa artikel
-        </div>
+        </div-->
 
         <div class="behind" @click="nextArticle()">
           Nästa artikel
