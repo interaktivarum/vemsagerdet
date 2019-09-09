@@ -30,8 +30,38 @@
 
     </div>
 
+    <br />
+
     <div class="note">
-      När du byter avsändare ändras enbart avsändaren, medan artikeltexten och bilden är desamma. Vad har respektive avsändare för syfte med artikeln? Stämmer det överens med sådant du redan vet? Fundera på hur det påverkar trovärdigheten i innehållet. Diskutera gärna med en kompis!
+
+      <h3>Diskutera</h3>
+
+      <p>
+        När du ändrar avsändare ändras enbart avsändaren, medan artikeltexten och bilden är desamma.
+      </p>
+
+      <ul>
+        <li>
+          Vad har respektive avsändare för syfte med artikeln?
+        </li>
+        <li>
+          Är avsändaren expert inom området?
+        </li>
+        <li>
+          Stämmer informationen överens med vad andra skriver om ämnet?
+        </li>
+        <li>
+          Stämmer informationen överens med sådant du redan vet, och <i>hur</i> vet du det?
+        </li>
+        <li>
+          <i>Vill</i> du att informationen ska vara sann?
+        </li>
+      </ul>
+
+      <p>
+        Fundera på hur ovanstående påverkar trovärdigheten i innehållet, och hur du tolkar artikeln. Diskutera gärna med en kompis!
+      </p>
+
     </div>
 
   </div>
@@ -100,9 +130,11 @@ select:hover{
 }
 
 .note{
-  padding: 20px 20px 0 20px;
-  color: gray;
-  font-size: small;
+  background: rgb(240,240,240);
+  padding: 0 20px 10px 20px;
+  color: rgb(50,50,50);
+  border: 1px solid lightgray;
+  border-radius: 3px;
 }
 
 </style>
